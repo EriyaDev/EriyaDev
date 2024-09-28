@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Front End Web Developer<br>📘 I’m a student in SMK Negeri 1 Denpasar<br>🌱 I’m currently learning Javascript<br>⚡ Solid foundation in HTML, CSS, and Javascript
+🔭 I'm Beginner Front End Web Developer<br>📘 I’m a student in SMK Negeri 1 Denpasar<br>🌱 I’m currently learning Javascript<br>⚡ Solid foundation in HTML and CSS
 
 
 ## 🌐 Socials:
