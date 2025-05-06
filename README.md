@@ -1,3 +1,5 @@
+## Hello There! I'm Elijah Prasetya👋
+![Elijah Prasetya](Banner Itch Io.jpg)
 # 💫 About Me:
 🔭 Front End Web Developer<br>🌱 Lifelong Learner<br>⚡ HTML, CSS, JS, Tailwind CSS, GSAP
 
