@@ -22,4 +22,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eriyadev&theme=tokyonight" width="32%"/>
 </p>
 
-</div>
+---
+
+### CONTRIBUTION GRAPH
+
+<p align="center">
+  <!-- GitHub Activity Graph: Tetap pakai yang paling detail per bulan/tahun -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eriyadev&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true&hide_data=false&custom_title=Contribution%20Graph" width="100%" />
+</p>
