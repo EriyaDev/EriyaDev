@@ -19,6 +19,8 @@
 
 <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eriyadev&theme=tokyonight" width="32%"/>
+</p>
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eriyadev&theme=tokyonight" width="32%"/>
 </p>
 
