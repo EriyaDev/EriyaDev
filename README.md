@@ -18,8 +18,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eriyadev&theme=tokyonight" width="70%"/>
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eriyadev&theme=tokyonight" width="32%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eriyadev&theme=tokyonight" width="32%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eriyadev&theme=tokyonight" width="35%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eriyadev&theme=tokyonight" width="35%"/>
 </p>
 
 ---
