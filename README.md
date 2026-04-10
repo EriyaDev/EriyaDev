@@ -11,15 +11,15 @@
 
 ### 🛠️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,laravel,vue" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,laravel,vue" />
 
 ### 📊 GITHUB STATS
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eriyadev&theme=tokyonight" width="70%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eriyadev&theme=tokyonight" width="100%"/>
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eriyadev&theme=tokyonight" width="35%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eriyadev&theme=tokyonight" width="35%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eriyadev&theme=tokyonight" width="49%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eriyadev&theme=tokyonight" width="49%"/>
 </p>
 
 ---
