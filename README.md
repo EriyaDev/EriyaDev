@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/AGwgdtbLPAIAAAAC/fern-spin.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/vWcnNZgu_ksAAAAC/fern-frieren-beyond-journey%27s-end.gif" width="150"/>
 </p>
 
 <p align="center">
   <strong>Hi, I'm Elijah 👋</strong><br>
-  Web Developer yang tertarik dengan web animation & suka share project gabut ke GitHub.
+  Web Developer yang masih belajar untuk menjadi software engineer profesional
 </p>
 
 <div align="center">
 
 ### 🛠️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,alpinejs,tailwind,laravel,vue,nuxt" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,tailwind,laravel,vue" />
+<br/>
 <img src="https://skillicons.dev/icons?i=linux,mint" />
 
 <!-- ### 📊 GITHUB STATS
