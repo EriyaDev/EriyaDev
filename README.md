@@ -11,7 +11,9 @@
 
 ### 🛠️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,laravel,vue" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,alpinejs,tailwind,laravel,vue,nuxt" />
+
+<img src="https://skillicons.dev/icons?i=linux,mint" />
 
 <!-- ### 📊 GITHUB STATS
 
@@ -24,9 +26,9 @@
 
 ---
 
-### CONTRIBUTION GRAPH
+<!-- ### CONTRIBUTION GRAPH
 
-<p align="center">
+<p align="center"> -->
   <!-- GitHub Activity Graph: Tetap pakai yang paling detail per bulan/tahun -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eriyadev&theme=tokyo-night" width="100%" />
-</p>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=eriyadev&theme=tokyo-night" width="100%" />
+</p> -->
