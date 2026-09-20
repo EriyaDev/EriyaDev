@@ -17,9 +17,14 @@
 
 
 
+### 📊 GITHUB STATS
 <div align="center" style="margin-top: 20px;">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=EriyaDev&theme=tokyonight)
+
+</div>
+<div align="center" style="margin-top: 20px;">
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EriyaDev&layout=compact&theme=tokyonight)
 </div>
 <!-- ### 📊 GITHUB STATS
