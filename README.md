@@ -15,6 +15,13 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,mint" />
 
+
+
+<div align="center" style="margin-top: 20px;">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=EriyaDev&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EriyaDev&layout=compact&theme=tokyonight)
+</div>
 <!-- ### 📊 GITHUB STATS
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eriyadev&theme=tokyonight" width="100%"/>
